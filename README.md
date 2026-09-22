@@ -3,11 +3,11 @@
 
 <h4>This repository contains my journey of learning and improving my programming and development skills. It contains total 4 folders</h4>
 
-<h3>1. Learning Process<📚/h3>
+<h3>1. Learning Process📚</h3>
 
 <h4>Assignments and exercises completed while learning from online courses and platforms.</h4>
 
-<h3>2. Practice🧪< /h3>
+<h3>2. Practice🧪</h3>
 
 <h4>My experiments, exercises, and practice work while learning new concepts.</h4>
 
