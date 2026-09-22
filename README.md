@@ -1,4 +1,4 @@
-# my---development---journey
+# my development journey
 <h2>My Development Journey 🚀</h2>
 
 <h4>This repository contains my journey of learning and improving my programming and development skills. It contains total 4 folders</h4>
