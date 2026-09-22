@@ -7,7 +7,7 @@
 
 <h4>Assignments and exercises completed while learning from online courses and platforms.</h4>
 
-<h3>2. Practice🧪</h3>
+<h3>2. Mastering concepts by Practice🧪</h3>
 
 <h4>My experiments, exercises, and practice work while learning new concepts.</h4>
 
